@@ -1,0 +1,47 @@
+html, body {
+    background: #252422;
+    height: 100%;
+    color:white;
+}
+
+.container{
+    height: 100%;
+}
+
+h1 {
+    color: #f42b03;
+    color: #eb5e28;
+    text-align: center;
+}
+
+nav{
+    border: 1px solid #403d39;
+    color: #fffcf2;
+}
+
+main{
+    /* margin: 20px; */
+}
+
+.description{
+    text-align: center;
+    margin: 20px;
+}
+
+section{   
+    margin: 10px;
+}
+
+img{
+    width:100%;
+}
+
+.img-row{
+    height: 245px;
+    overflow: hidden;
+}
+
+footer{
+    background: #403d39;
+    text-align: center;
+}
